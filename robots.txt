@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://preshs-hair-studio.netlify.app/sitemap.xml
